@@ -1,8 +1,0 @@
-- ContentView: Run the app and it should show the weather with a percentage symbol at the bottom
-- SwiftUI4: Run the app and it should show Color Picker with 3 sliders
-	- Slide any of the sliders and the color of the symbol below Color Picker should change
-	- ColorSlider is the page that supports it
-- WeatherUtil: Run the app and it should show the weather in New York City
-	- Click on any of the day and it should the day of the week that you clicked on
-	- Click on More Info and it should show the low and high temperature of that day
-	- DataModel and DetailView are the pages that support it
